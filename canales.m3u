@@ -1,0 +1,60 @@
+#EXTM3U 
+
+#EXTINF:-1 ,Cristikids 24 Horas 
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,BOH 24 Horas 
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+
+#EXTINF:-1 ,T3lemundo 24 Horas 
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+
+
+#EXTINF:-1 ,Tox 24 Horas 
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+
+#EXTINF:-1 ,clasicos mexico 24 Horas
+http://inliveserver.com:1935/8468/8468/chunklist_w225645864.m3u8
+
+
+#EXTINF:-1 ,Adn 24 Horas
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,Once 24 Horas
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,Milenio 24 Horas
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,presumiendo mx 24 Horas
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,Azt 1B mx 24 Horas
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+
+#EXTINF:-1 ,Azt 7 mx 24 Horas
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+
+#EXTINF:-1 ,Cn estrelas mx 24 Horas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+
+#EXTINF:-1 ,Gala mx 24 Horas
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+
+
+#EXTINF:-1 ,Discov 24 Horas
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 ,unsal 24 Horas
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
